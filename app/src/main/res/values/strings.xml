@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ContentResolver</string>
+    <string name="artist_name">아티스트 이름</string>
+    <string name="music_title">음원 제목</string>
+</resources>
